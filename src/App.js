@@ -16,6 +16,7 @@ function App() {
     updateFilteredJobs();
 
     setIsPending(false);
+    // eslint-disable-next-line
   }, [keywords]);
 
   const updateFilteredJobs = () => {
