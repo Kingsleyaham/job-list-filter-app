@@ -10,7 +10,7 @@ const Footer = () => {
         >
           Frontend Mentor
         </a>
-        . Coded by <a href="#">Aham Kingsley</a>.
+        . Coded by <a href="https://github.com/Kingsleyaham">Aham Kingsley</a>.
       </div>
 
       <script src="./assets/js/main.js"></script>
