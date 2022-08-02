@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github](https://github.com/Kingsleyaham/job-list-filter-app)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://job-list-filter-app.netlify.app/)
 
 ## My process
 
